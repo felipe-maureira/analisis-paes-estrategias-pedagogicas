@@ -53,21 +53,6 @@ Este análisis nace de una iniciativa pedagógica implementada en un establecimi
 - Mayor concentración de estudiantes sobre 500 puntos en 2025
 - Los ensayos internos demostraron ser una herramienta predictiva válida
 
-## Cómo ejecutar
-1. Clonar el repositorio
-```bash
-git clone https://github.com/tu_usuario/analisis-paes-estrategias-pedagogicas.git
-```
-2. Instalar dependencias
-```bash
-pip install pandas matplotlib seaborn numpy openpyxl
-```
-3. Colocar los archivos `.xlsx` en la misma carpeta que el notebook
-4. Abrir y ejecutar el notebook
-```bash
-jupyter notebook analisis_comparativo_paes.ipynb
-```
-
 ## Autor
 **Felipe Maureira** — Profesor de Matemática y Computación | Estudiante de Ingeniería en Ciencia de Datos  
 Este proyecto combina 6 años de experiencia docente con análisis de datos para medir el impacto real de estrategias pedagógicas.
